@@ -3,6 +3,9 @@
 # Common settings.
 ##
 
+# The video brightness. This default seems to work well with most Macs and PCs.
+brightness: '170'
+
 # TODO: See https://github.com/geerlingguy/pi-webcam/issues/4
 
 ##
